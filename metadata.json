@@ -1,1 +1,7 @@
-
+{
+  "name": "Zakat Node",
+  "website": "",
+  "description": "Zakat Node and AVS Operator",
+  "logo": "https://raw.githubusercontent.com/ebeggars/zakaat/main/logo.png",
+  "twitter": ""
+}
